@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">iStart Browser</string>
+
+    <string name="set_up">Setting</string>
+    <string name="mask">Mask</string>
+    <string name="blur">Blur</string>
+    <string name="searchbar">Search Bar</string>
+    <string name="icon">Icon</string>
+    <string name="collect_success">收藏成功!</string>
+    <string name="collect_cancel_success">取消收藏成功!</string>
+    <string name="setting_success">设置成功!</string>
+    <string name="uploading">上传中!</string>
+    <string name="set_wallpaper_first">Please set the wallpaper first!</string>
+    <string name="account_selected">账号数据选择</string>
+    <string name="combine_sync_data">合并本地与云端数据</string>
+    <string name="use_local_data">使用本地数据</string>
+    <string name="use_server_data">使用云端数据</string>
+    <string name="add_web_url">添加网页</string>
+    <string name="download_record">下载记录</string>
+    <string name="collect">收藏</string>
+    <string name="nature">自然</string>
+    <string name="ocean">海洋</string>
+    <string name="architecture">建筑</string>
+    <string name="animals">动物</string>
+    <string name="travel">旅行</string>
+    <string name="food_drink">美食</string>
+    <string name="anime">动漫</string>
+    <string name="athletics">运动</string>
+    <string name="technology">技术</string>
+    <string name="street_photography">街头</string>
+
+    <string name="wallpaper_center">壁纸中心</string>
+    <string name="save">保存</string>
+    <string name="example">Example</string>
+    <string name="example_text">最聪明的人是最不喜欢浪费时间的人</string>
+
+    <string name="scan_qrcode_tip">扫描二维码打开当前网页</string>
+    <string name="wechat_friend">微信好友</string>
+    <string name="wechat_circle_of_friends">微信朋友圈</string>
+    <string name="qq_friend">QQ好友</string>
+    <string name="copy_link">Copy Link</string>
+    <string name="share_qrcode">二维码</string>
+    <string name="share_to">分享至</string>
+
+    <string name="network_error">网络错误，点击重新加载…</string>
+    <string name="not_collect">你当前还没收藏壁纸哦</string>
+
+    <string name="infinity_wallpaper">Infinity 壁纸</string>
+    <string name="follow_us">关注我们</string>
+    <string name="share_to_friend">分享给好友</string>
+    <string name="official_community">官方社群</string>
+    <string name="about">About</string>
+    <string name="contact_us">Contact us</string>
+
+    <string name="edit_profile">编辑资料</string>
+    <string name="edit_avatar">编辑头像</string>
+    <string name="edit_nickname">修改昵称</string>
+    <string name="nickname">Nickname</string>
+    <string name="edit_password">修改密码</string>
+    <string name="login_success">登录成功</string>
+    <string name="login_failed">登录失败</string>
+    <string name="logining">正在登录...</string>
+    <string name="delete_account">删除账户</string>
+    <string name="delete_account_tip">删除账号后，此账号下的所有设备均会被清除</string>
+    <string name="update_success">更新成功</string>
+    <string name="delete_account_success">账户删除成功</string>
+    <string name="delete_account_processing">"正在删除账户..."</string>
+    <string name="delete_account_failed">账户删除失败</string>
+
+    <string name="resume_data">恢复数据</string>
+    <string name="resume_data_tip">云端数据将覆盖本地数据,确定吗?</string>
+
+    <string name="photo_album">相册</string>
+    <string name="photograph">拍照</string>
+    <string name="login_or_register">登录/注册</string>
+    <string name="login_now_tip">现在登录，体验更多精彩</string>
+    <string name="logout_tip">确定要退出当前账号登录吗？</string>
+    <string name="login_account">欢迎使用Infinity</string>
+    <string name="register_account">注册Infinity</string>
+    <string name="register_now">现在注册</string>
+    <string name="wrong_format">格式错误</string>
+    <string name="email_verification_code">邮箱验证码</string>
+    <string name="send_verification_code">发送验证码</string>
+    <string name="previous_step">上一步</string>
+    <string name="next_step">下一步</string>
+    <string name="other_login">其他登录</string>
+    <string name="forget_pwd_tip">通过邮箱验证重新设置您的密码</string>
+
+    <string name="avatar_update_success">头像更新成功</string>
+    <string name="conventional">常规</string>
+    <string name="privacy_security">Privacy Security</string>
+
+    <string name="clear_all_setting">清除此设备上的个性化设置等信息</string>
+    <string name="manager_history_backup">管理历史备份节点</string>
+    <string name="data_sync_other_device">与其他设备保持同步</string>
+
+    <string name="tip_input_password">输入密码</string>
+    <string name="tip_input_password2">再次输入密码</string>
+    <string name="set_password">设置密码</string>
+    <string name="set_password_new">设置您的新密码</string>
+    <string name="set_password_success">密码修改成功</string>
+    <string name="register_success">注册成功</string>
+    <string name="password_length_limit">密码长度不能少于6位</string>
+    <string name="account_exit_success">退出成功</string>
+
+    <string name="newtab_open">新标签页打开网站</string>
+    <string name="newtab_open_search">新标签页打开第三方搜索结果</string>
+    <string name="search_engine_manager">搜索引擎管理</string>
+    <string name="hide_logo">隐藏logo</string>
+    <string name="minimalist_mode">极简模式</string>
+    <string name="no_picture_mode">无图模式</string>
+    <string name="icon_shape">图标形状</string>
+    <string name="language">语言</string>
+
+    <string name="wechat_account">微信公众号</string>
+    <string name="wechat_tip">微信公众号：infinitydaily\n获取最新产品动态，带你发现更多好玩有趣的扩展和网站</string>
+
+    <string name="save_success">保存成功</string>
+    <string name="save_failed">保存失败</string>
+    <string name="five_star_praise">Five-star praise</string>
+
+    <string name="system_default">系统默认</string>
+    <string name="simplified_chinese">简体中文</string>
+    <string name="traditional_chinese">繁体中文</string>
+
+    <string name="open_filerw_permission">请打开文件读写权限, 权限管理 -> 读写手机存储 -> 选择允许</string>
+    <string name="go_now">立即前往</string>
+    <string name="permission_tips">提示</string>
+
+    <string name="manual_backup">Manual backup</string>
+    <string name="manual_backup_tip">本地数据将保存到手动备份节点</string>
+    <string name="auto_backup">Auto backup</string>
+    <string name="current">Current</string>
+    <string name="resume">恢复</string>
+    <string name="sync_failed">同步失败!</string>
+    <string name="backup_failed">备份失败!</string>
+
+    <string name="edit">Edit</string>
+    <string name="ok">Ok</string>
+
+    <string name="edit_website">Edit Website</string>
+
+     <string name="phone_number">手机号码</string>
+    <string name="login">登录</string>
+    <string name="logout">退出登录</string>
+    <string name="next">Next</string>
+
+    <string name="commit">Submit</string>
+
+     <string name="forget_pwd">忘记密码</string>
+
+    <string name="loading">Loading...</string>
+
+    <string name="handing">Processing...</string>
+
+    <string name="get_verify">获取验证码</string>
+    <string name="pwd_login">帐号密码登陆</string>
+    <string name="verify_code_send_success">验证码发送成功</string>
+    <string name="resend_code">重新发送</string>
+    <string name="notice_sms_already_send">短信已发送</string>
+    <string name="data_error">Abnormal Data, try again later</string>
+
+     <string name="title_sms_login">短信登录</string>
+    <string name="title_pwd_login">密码登录</string>
+    <string name="title_sms_verify">短信验证</string>
+
+    <string name="setting">Setting</string>
+
+    <string name="notice_no_data">No Data</string>
+
+    <string name="notice_no_more_data">No More Data</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="confirm">OK</string>
+
+    <string name="more">More</string>
+
+    <string name="share">Share</string>
+    <string name="readlist">阅读清单</string>
+
+    <!-- 权限提示 相关 -->
+    <string name="zz_tip_msg_permission_sdcard">Storage Permission</string>
+
+    <string name="zz_tip_msg_permission_phone">Phone Permission</string>
+    <string name="zz_tip_msg_permission_camera">Camera Permission</string>
+
+    <string name="zz_tip_msg_permission_tips">%s Is The Basic Authority Required By The Software To Provide Quality Services,Does Not Involve Access To Personal Privacy,Please Allow Access。</string>
+    <string name="permission_tips_camera">Please Go To The Permissions Center To Open The Camera Access Permissions For This Application</string>
+    <string name="permission_tips_storage">Please Go To The Permission Center To Open The File Read And Write Permissions Of This Application</string>
+
+    <string name="nav_bookmark">Bookmarks</string>
+
+    <string name="history">History</string>
+
+    <string name="todo">Todos</string>
+
+    <string name="add_todo">Create New Todo</string>
+
+    <string name="hint_download">Search Downloads</string>
+
+    <string name="nav_note">Notes</string>
+
+    <string name="note">Notes</string>
+
+    <string name="nav_scan">Scan</string>
+
+    <string name="web_site">Website</string>
+
+    <string name="search_type_img">Images</string>
+
+    <string name="search_type_news">News</string>
+
+    <string name="search_type_video">Videos</string>
+
+    <string name="search_type_map">Maps</string>
+
+    <string name="hint_search_or_input_website">Search Or Enter Address</string>
+
+    <string name="hint_search_history">Search History</string>
+
+    <string name="search_history">Search History</string>
+
+    <string name="hint_search_bmark">Search Bookmark</string>
+
+    <string name="hint_input_custom_name">Enter Custom Name</string>
+
+    <string name="hint_input_str">Input String</string>
+
+    <string name="history_record">History</string>
+
+    <string name="scan_result">Scan Result</string>
+
+    <string name="bookmark">Bookmarks</string>
+    <string name="search">Search</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="delete_all">Delete All</string>
+
+    <string name="tips_search_words_empty">Please Input Something First</string>
+
+    <string name="tips_add_success">Added</string>
+
+    <string name="tips_remove_success">Removed</string>
+
+
+    <string name="tips_add_failed">Add Failed</string>
+
+    <string name="tips_clear">Are You Sure To Clear?</string>
+
+    <string name="tips_clear_download">Are You Sure To Clear All Download List?</string>
+
+    <string name="tips_merge_data">Do You Want To Merge Cloud Data with Local Data? If Not,Clould Data Will replace Local Data</string>
+
+    <string name="tips_error_network">Network Error, Please Try Again~</string>
+
+    <string name="tips_no_network">No Network Connection</string>
+
+    <string name="tips_data_empty">No Data</string>
+
+    <string name="tips_show_name_empty">Display Name Cannot Be Empty</string>
+
+    <string name="tips_clear_todo_done">Are You Sure You Want To Clear Completed Todos?</string>
+
+    <string name="tips_empty_local">Noting</string>
+
+    <string name="tips_input_empty">Enter Content</string>
+
+    <string name="tips_search_engine_no_key">URL With %s In Place of Query</string>
+
+    <string name="tips_not_url">Please Enter An Url  in The Correct Format</string>
+
+    <string name="tips_search_empty">No Search Result</string>
+
+    <string name="tips_todo_empty">No Todos</string>
+
+    <string name="tips_download_empty">No Download Content</string>
+
+    <string name="download_failed">Download Failed</string>
+
+    <string name="download_start">Download Start</string>
+
+    <string name="file_not_exist">No File Exists</string>
+
+    <string name="download_add_fail">Add Download Task Failed</string>
+
+    <string name="tips_note_empty">No Note</string>
+
+    <string name="home_page">HomePage</string>
+
+    <string name="add">Add</string>
+
+    <string name="add_icon">Add Icon</string>
+
+    <string name="clear">Clear</string>
+
+    <string name="clear_all">Clear All</string>
+
+    <string name="copy_success">Copy Success</string>
+
+    <string name="clear_large">Clear&#160;&#160;</string>
+
+    <string name="del_large">Delete&#160;&#160;</string>
+
+    <string name="save_large">Save&#160;&#160;</string>
+
+    <string name="clear_done_large">Clear Completed&#160;&#160;</string>
+
+    <string name="tips_clear_cache">Cleared</string>
+
+    <string name="tips_saved">Saved</string>
+
+<!--    <string name="manage">Manage</string>-->
+
+    <string name="manage_large">&#160;&#160;Manage&#160;&#160;</string>
+
+    <string name="done">Done</string>
+
+    <string name="done_large">&#160;&#160;Done&#160;&#160;</string>
+
+    <string name="back">Back</string>
+
+    <string name="refresh">Refresh</string>
+
+    <string name="add_bookmark">Add Bookmark</string>
+
+    <string name="del_bookmark">Delete Bookmark</string>
+
+    <string name="add_to_common_use">Add Page To Top Sites</string>
+
+    <string name="added">Added</string>
+
+    <string name="no_trace_read">Private Browsing</string>
+
+    <string name="read_record">Browsing History</string>
+
+    <string name="account_pwd">Account And Password</string>
+
+    <string name="no_trace_read_selected">Private Browsing Is On</string>
+
+    <string name="read_mode">阅读模式</string>
+    <string name="search_inpage">页面查找</string>
+    <string name="screen_on">Keep Screen On</string>
+
+    <string name="screen_on_selected">Keep Screen On Enabled</string>
+
+    <string name="dir">Folders</string>
+
+    <string name="dir_name">Folder Name</string>
+
+    <string name="select_dir">Select A Folder</string>
+
+    <string name="dir_root">Root Directory</string>
+
+    <string name="create_dir">Create A Folder</string>
+
+    <string name="default_value">Default</string>
+
+    <string name="tips_dir_exist">A Folder That Has The Same Name Already Exists</string>
+
+    <string name="tips_already_exist">Already Exist</string>
+
+    <string name="tips_select_right_format">Only Support jepg,jpg And png</string>
+
+    <string name="tips_add_back_download">Background Download Added, You Can Check On The Process In Notification</string>
+
+    <string name="tips_search_engine_already_exist">Search Engine Already exists</string>
+
+    <string name="tips_select_first">No Selection</string>
+
+    <string name="tips_atleast_select_one">Select One At Least</string>
+
+    <string name="tips_name_size_exceed">Folder Names Can’t Be Longer Than 10 Characters</string>
+
+    <string name="tips_special_symbol">Folder Names Can’t Contain Special Characters</string>
+
+    <string name="tips_open_no_trace">Private Browsing Enabled</string>
+
+    <string name="tips_close_no_trace">Private Browsing Disabled</string>
+
+    <string name="tips_close_screen_on">Keep Screen On Disabled</string>
+
+    <string name="tips_multi_window_nums_limit">The Window Has Exceeded The Number Limit</string>
+    <string name="tips_open_screen_on">Keep Screen On Enabled</string>
+    <string name="tips_input_content">Input Content</string>
+    <string name="email">E-mail</string>
+    <string name="tips_input_correct_email">请输入正确的邮箱</string>
+    <string name="tips_input_correct_pwd">请输入密码</string>
+<!--    <string name="tips_input_content">输入内容</string>-->
+    <string name="use_third_login">使用第三方登陆</string>
+
+    <string name="welcome">欢迎</string>
+    <string name="pwd">Password</string>
+    <string name="input_pwd">输入密码</string>
+    <string name="input_new_pwd">输入新密码</string>
+    <string name="pwd_not_equal">密码不一致</string>
+    <string name="confirm_new_pwd">确认新密码</string>
+    <string name="validate_gesture">验证手势</string>
+    <string name="email_code">邮箱验证码</string>
+    <string name="register">注册</string>
+    <string name="find_pwd">找回密码</string>
+    <string name="set_new_pwd">设置新密码</string>
+    <string name="title_register">请输入您的邮箱进行注册</string>
+    <string name="title_verify">设置您的登录密码并进行邮箱验证</string>
+    <string name="title_find_pwd">请输入你的邮箱来找回密码</string>
+    <string name="title_set_new_pwd">验证信息已通过邮件发送到你的邮箱,复制邮件验证码,继续以下操作,重新设置密码</string>
+    <string name="set_pwd">设置密码</string>
+    <string name="forget_pwd_question">忘记密码?</string>
+    <string name="login_cancel">登录取消</string>
+
+
+    <string name="errcode_success">发送成功</string>
+    <string name="errcode_cancel">发送取消</string>
+    <string name="errcode_deny">发送被拒绝</string>
+    <string name="errcode_unsupported">不支持错误</string>
+    <string name="errcode_unknown">发送返回</string>
+
+    <string name="nav_tab_popular">Popular</string>
+
+    <string name="nav_tab_user_share">Shared by other users</string>
+
+    <string name="nav_tab_app">App</string>
+
+    <string name="nav_tab_news">News</string>
+
+    <string name="nav_tab_music_video">Music Vedio</string>
+
+    <string name="nav_tab_image">Images</string>
+
+    <string name="nav_tab_shopping">Shopping And Group Buying</string>
+
+    <string name="nav_tab_blog">Social Media And Blogs</string>
+
+    <string name="nav_tab_sport">Sports And Travel</string>
+
+    <string name="nav_tab_life_style">Lifestyle</string>
+
+    <string name="nav_tab_game">Gaming And Entertainment</string>
+
+    <string name="nav_tab_edu">Education And Jobs</string>
+
+    <string name="nav_tab_tech">Digital Technology</string>
+
+    <string name="nav_tab_finance">Financial</string>
+
+    <string name="nav_tab_read">Read</string>
+
+    <string name="nav_tab_other">Other</string>
+
+    <string name="custom_add">Custom</string>
+
+    <string name="net_addr">Website Location</string>
+
+    <string name="net_name">Website Name</string>
+
+    <string name="show_name">Display Name</string>
+
+    <string name="name">Name</string>
+
+    <string name="show_name_tips">(Must be a maximum of 4 character in length)</string>
+
+    <string name="select_color">Select Color</string>
+
+    <string name="common">Regular</string>
+
+    <string name="search_manage">Search Manage</string>
+
+    <string name="ad_blocking">Advertise Block</string>
+
+    <string name="feedback">Feedback</string>
+
+    <string name="about_us">About Us</string>
+
+
+    <string name="font_size">Font Size</string>
+
+    <string name="smart_load">Smart Preload</string>
+
+    <string name="user_agent">User Agent</string>
+
+    <string name="no_image_mode">No Image Mode</string>
+
+    <string name="night_mode">Night Mode</string>
+
+    <string name="translate">Translate</string>
+
+    <string name="screen_on_always">Keep Screen On In App</string>
+
+    <string name="default_search_engine">Default Search Engine</string>
+
+    <string name="search_engine">Search Engine</string>
+
+    <string name="tips_add_search_engine">(URL With %s In Place Of Query)</string>
+
+    <string name="my_search_engine">My Search Engines</string>
+
+    <string name="clear_cache_privary">Clear the Cache And Pravicy</string>
+
+    <string name="confirm_clear">Confirm Clear</string>
+
+    <string name="no_trace">Incognito Mode</string>
+
+    <string name="privary_protect">Pravicy Protected</string>
+
+    <string name="pwd_protect">Password Protected</string>
+
+    <string name="cookies">Cookies</string>
+
+    <string name="cache_file">Cache File</string>
+
+    <string name="version_name">Version Number</string>
+
+    <string name="privacy_protocol">Privacy Policy</string>
+    <string name="terms_of_use">Terms of use</string>
+
+    <string name="user_protocal">User Policy</string>
+
+    <string name="back_protect_privary">后台任务时保护隐私</string>
+    <string name="forbit_social_trace">禁止社交媒体跟踪</string>
+    <string name="forbit_other_trace">禁用其他跟踪</string>
+    <string name="wechat">微信</string>
+    <string name="friends">朋友圈</string>
+    <string name="qq">QQ</string>
+    <string name="qzone">QQ空间</string>
+    <string name="sina">新浪</string>
+    <string name="weibo">微博</string>
+    <string name="copy">Copy</string>
+
+    <string name="facebook">Facebook</string>
+
+    <string name="facebook_msg">Messenger</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="pinterest">Pinterest</string>
+
+    <string name="linkedin">Linked in</string>
+
+    <string name="ua_default">Default</string>
+
+    <string name="add_custom">Add Custom</string>
+
+    <string name="add_new_search_engine">Add New Search Engine</string>
+
+    <string name="apply_range">Apply Range</string>
+
+    <string name="gesture_pwd">Gesture Password</string>
+
+    <string name="pin">PIN</string>
+
+    <string name="pin_pwd">PIN Password</string>
+
+    <string name="use_pwd">Use Password</string>
+
+    <string name="modify_pwd">Change Password</string>
+    <string name="input_password_origin">请输入原密码</string>
+    <string name="input_password_new">请输入新密码</string>
+    <string name="input_password_new2">请再次输入新密码</string>
+
+    <string name="tips_set_gesture_pwd">For Your Private Security, Please Create your Gesture</string>
+
+    <string name="tips_gesture_pwd_confirm">Please Confirm Your Gesture</string>
+
+    <string name="gesture_pwd_set_ok">Set up Success</string>
+
+    <string name="set_gesture_pwd">Set Up Gesture</string>
+
+    <string name="set_pin_pwd">Set Up PIN</string>
+
+    <string name="confirm_pin_pwd">Confirm PIN</string>
+
+    <string name="pwd_error">Password Error</string>
+
+    <string name="pwd_diff_tips">You Must Enter The Same Passphrase Twice</string>
+
+    <string name="input_source_pwd">Enter The Password You Previously Used</string>
+
+    <string name="modify_success">Modified Successfully</string>
+
+    <string name="tips_gesture_count_limit">Please Tap %d Points At Least,Please Try Again</string>
+
+    <string name="tips_gesture_error">Gesture Error, Please Try Again</string>
+
+    <string name="tips_gesture_diff">You Must Draw The Same Gesture Twice, Please Try Again</string>
+
+    <string name="tips_gesture_limit_count">Password Error, %d Times Remaining</string>
+
+    <string name="unlock_success">Unlock Success</string>
+
+    <string name="block_ad_count_per_month">本月屏蔽广告</string>
+    <string name="unit">条</string>
+    <string name="tips_save_flow">为您节约%s流量</string>
+    <string name="block_launch_app">屏蔽跳转到应用中打开的相关元素</string>
+    <string name="crack_content_in_app">破解内容必须APP内查看</string>
+    <string name="hint_feedback">Submit Suggestions And Comments To Us</string>
+
+
+    <string name="font_size_sample">Example：\nThe most intelligent people are the most people do not like to waste time</string>
+
+    <string name="handle_data_done">Data Processing completed</string>
+
+    <string name="tips_outside_link">Whether To Jump To An External Link</string>
+
+    <string name="tips_delete_file">Are You Sure You Want To Delete The File?</string>
+
+    <string name="delete_origin_file">Also Delete Source File</string>
+
+    <string name="title_download_exist">File Already Exists, Whether To Download List</string>
+
+    <string name="download_task_exist">Download Task Already Exists</string>
+
+    <string name="title_download">Do You Want To Download The %s</string>
+
+    <string name="title_download_ok">Download completed</string>
+
+    <string name="title_outlink">Request To Open An External Link </string>
+
+    <string name="desc_outlink">Link：</string>
+
+    <string name="desc_download">The File size is %s, Current Network Is %s</string>
+
+    <string name="network_flow">Traffic</string>
+
+    <string name="tips_logout">Are You sure To Quit？\nYour Data Will No Longer be Synced</string>
+
+    <string name="personal_data">Profile</string>
+
+    <string name="create_note">New Note</string>
+
+    <string name="no_hint_more">Mute Reminders</string>
+
+    <string name="share_from">From iStart Browser</string>
+
+    <!--    facebook-->
+    <string name="facebook_app_id">399445757530979</string>
+
+    <string name="fb_login_protocol_scheme">fb399445757530979</string>
+
+    <string name="auth_failed">Authorization Failed</string>
+
+    <string name="find_update">A New Version Was Found</string>
+
+    <string name="update_no">No</string>
+
+    <string name="update_now">Update Now</string>
+
+    <string name="update_ignore">Ignore</string>
+
+    <string name="nav_search_hint">Enter The Search Keyword</string>
+
+
+    <!--        download      -->
+    <string name="download_err">Download Failed,Click To Try Again</string>
+
+    <string name="download">Download</string>
+
+    <string name="download_manager">Download Manage</string>
+
+    <string name="download_pb">Download Progress</string>
+
+    <string name="ota_downloaded_title">Detected That You Have Downloaded The Installation Package</string>
+
+    <string name="ota_downloaded_desc">In Order For You Use The App Normally,Please Download The New Version</string>
+
+    <string name="install_now">Install Now</string>
+
+    <string name="tips_to_set_pwd">Please Set up a New Password First</string>
+
+    <string name="share_app_title">The App Is Recommended</string>
+
+    <string name="share_app_desc">I Use It All The Time, It is Good</string>
+
+    <string name="webview_menu_select_all">Select All</string>
+
+    <string name="webview_menu_copy">Copy</string>
+
+    <string name="webview_menu_search">Search</string>
+
+    <string name="user_voice">User Opinion</string>
+    <string name="contact_email">Contact Email</string>
+    <string name="feebback_words_num_invalid">At Least 5 Words</string>
+
+    <string name="hint_feedback_content">Suggestions For Improvement</string>
+    <string name="hint_feedback_email">Please Enter The Contact Email</string>
+
+    <string name="notice_sweet_notice">Notice</string>
+    <string name="email_format_err">E-mail Format Is Incorrect</string>
+    <string name="commit_success">Submitted</string>
+    <string name="commit_fail">Submit failed, Please Try Again Later</string>
+
+    <string name="today">Today</string>
+    <string name="yestoday">Yestoday</string>
+    <string name="url_format_error">Incorrect Link Format</string>
+    <string name="tips_ssl_error">SSL Certificate Error, Do You Want To Continue Anyway?</string>
+    <string name="and">And</string>
+</resources>
