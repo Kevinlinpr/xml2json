@@ -1,10 +1,10 @@
-* XML 格式转换 json
+# XML 格式转换 json
 
-*** 依赖
+### 依赖
 
 > pip3 install langdetect
 
-*** 测试
+### 测试
 
 > python3 xml_to_json.py test/strings.xml zh-cn
 
@@ -12,11 +12,11 @@
 
 > python3 xml_to_json.py test/strings.xml UNKNOWN
 
-*** 使用
+### 使用
 
 > python3 xml_to_json.py <source_file> <language_flag>
 
-*** language_flag
+### language_flag
 
 > iso 639-1
 
