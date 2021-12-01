@@ -21,3 +21,14 @@
 > iso 639-1
 
 > 支持检测55种语言： af, ar, bg, bn, ca, cs, cy, da, de, el, en, es, et, fa, fi, fr, gu, he, hi, hr, hu, id, it, ja, kn, ko, lt, lv, mk, ml, mr, ne, nl, no, pa, pl, pt, ro, ru, sk, sl, so, sq, sv, sw, ta, te, th, tl, tr, uk, ur, vi, zh-cn, zh-tw
+
+
+# json 格式转换 XML
+
+### 测试
+
+> python3 json_to_xml.py test/11.29added.json zh-CN zh-TW en-US en-GB
+
+### 使用
+
+> python3 json_to_xml.py <source_file> <language_flag> <language_flag> <language_flag>
