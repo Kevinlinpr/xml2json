@@ -27,7 +27,6 @@ class IOUtils:
                 break
             if line == "\n":
                 continue
-            print(line)
 
 
 def gen_xml(source: str, lang_flag: str):
@@ -38,7 +37,6 @@ def gen_xml(source: str, lang_flag: str):
         value = (content[key])[lang_flag]
         result += "    <string name=\"" + key + "\">" + value + "</string>\n"
     result += "</resources>\n"
-    print(result)
     output = "strings_" + lang_flag.replace("-", "_") + ".xml"
     IOUtils.gen_file_w(output, result)
 

@@ -31,7 +31,6 @@ class IOUtils:
                 break
             if line == "\n":
                 continue
-            print(line)
 
 
 class XML:
@@ -94,7 +93,6 @@ class XML:
         xml = XML(source)
         xml.parse()
         output = "strings_" + lang_flag.replace("-", "_") + ".json"
-        print(xml.json(lang_flag))
         IOUtils.gen_file_w(output, xml.json(lang_flag))
 
 
